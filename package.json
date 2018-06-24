@@ -1,0 +1,31 @@
+{
+  "name": "oauthserver",
+  "version": "0.0.1",
+  "description": "a abstraction for implement the oauth service",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [
+    "oauth",
+    "server",
+    "token",
+    "authorization",
+    "code",
+    "grant"
+  ],
+  "author": "donati.sergio@gmail.com",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "devDependencies": {
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "should": "^13.2.1",
+    "supertest": "^3.1.0"
+  }
+}
