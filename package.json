@@ -1,6 +1,6 @@
 {
-  "name": "oauthserver",
-  "version": "0.0.1",
+  "name": "@sergiodonati/oauthserver",
+  "version": "0.0.2",
   "description": "a abstraction for implement the oauth service",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,15 @@
     "code",
     "grant"
   ],
-  "author": "donati.sergio@gmail.com",
+  "author": {
+    "name": "Sergio Donati",
+    "email": "<donati.sergio@gmail.com>"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SergioDonati/oauthserver.git"
+  },
   "license": "MIT",
   "licenses": [
     {
@@ -22,6 +30,9 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
+  "engines": {
+    "node": ">= 8.2.0"
+  },
   "devDependencies": {
     "express": "^4.16.3",
     "mocha": "^5.2.0",
