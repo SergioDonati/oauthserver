@@ -1,7 +1,7 @@
 # OAuth Server
 
 ![Travis](https://img.shields.io/travis/SergioDonati/oauthserver.svg?style=flat-square)
-![bitHound](https://img.shields.io/bithound/dependencies/github/SergioDonati/oauthserver.svg?style=flat-square)
+![david-dm](https://david-dm.org/SergioDonati/oauthserver.svg)
 ![bitHound](https://img.shields.io/bithound/devDependencies/github/SergioDonati/oauthserver.svg?style=flat-square)
 
 
